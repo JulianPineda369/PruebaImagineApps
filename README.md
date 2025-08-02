@@ -1,16 +1,15 @@
 # PruebaImagineApps - Sharepoint y REACT
-Este proyecto consiste en una aplicación web desarrollada con React. Su objetivo es simular la gestión de una lista de tareas y está estructurada para integrarse con SharePoint Online mediante la API REST y autenticación con MSAL. De antemano pido disculpas, pues mi usuario de Azure no fue posible autenticarlo para el paso 3 satisfactoriamente.
+Este proyecto consiste en una aplicación web desarrollada con React. Su objetivo es simular la gestión de una lista de tareas y está estructurada para integrarse con SharePoint Online mediante la API REST y autenticación con MSAL. De antemano, pido disculpas, pues mi usuario de Azure no fue posible autenticarlo para el paso 3 satisfactoriamente.
 
 ---
 
 ## Instalación y uso
 
 1. Por favor descargue el siguiente repositorio:
-git clone https://github.com/JulianPineda369/PruebaImagineApps.git
+https://github.com/JulianPineda369/PruebaImagineApps.git
 cd PruebaImagineApps
 2. Instale las dependencias:
 npm install
-
 3. Ejecute la aplicación:
 npm start
 
