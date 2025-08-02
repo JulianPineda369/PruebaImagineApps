@@ -1,5 +1,4 @@
-# PruebaImagineApps — Gestión de Tareas con React y SharePoint
-
+# PruebaImagineApps - Sharepoint y REACT
 Este proyecto consiste en una aplicación web desarrollada con React. Su objetivo es simular la gestión de una lista de tareas y está estructurada para integrarse con SharePoint Online mediante la API REST y autenticación con MSAL. De antemano pido disculpas, pues mi usuario de Azure no fue posible autenticarlo para el paso 3 satisfactoriamente.
 
 ---
